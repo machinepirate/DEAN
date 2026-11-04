@@ -29,3 +29,8 @@
 
 ## Week 7
 * Additional research into controlling attack/release
+* Various improvemenets to DEAN Demo
+* Started work on the reverse delay (not implimented in WIP Demo)
+
+## Week 8
+* Work on reverse delay, multi-channel delay, pitched delay
