@@ -34,3 +34,17 @@
 
 ## Week 8
 * Work on reverse delay, multi-channel delay, pitched delay
+
+## Week 9
+* More work on building FX in gen
+* Working on porting pitched/harmonic delay in gen~
+* Working on trying to resolve RNBO issues
+* Created Schroeder Reverb model
+
+## Week 10
+* RNBO Issue solved!
+* Ported over new model of harmonic delay into gen~
+* Completed stereo reverse delay and simple stereo delay
+* Started porting over and building in RNBO
+
+## Week 11
